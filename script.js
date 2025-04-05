@@ -1,6 +1,8 @@
 function firstChar(text) {
   // your code here
-	 return text.charAt(0)
+	// let result = text.Trim()
+	
+	 return text.trim().charAt(0)
 }
 
 // Do not change the code below
